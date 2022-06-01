@@ -9,13 +9,20 @@ public class Q10days_month {
 		System.out.println("Enter numbers of days :");
 		Scanner sc = new Scanner(System.in);
 		input = sc.nextInt();
-		if(input>=30) {
+		if(input>=30) 
+		{
 			months = input/30;
 			input = input%30;
 			System.out.println("No. of Months :"+months);
 			System.out.println(input);
 			System.out.println("No. of days :"+input);
-		}
+		}else 
+			System.out.println("No. of days :"+input);
+
+		
+		
+			
+			
 		
 	}
 
