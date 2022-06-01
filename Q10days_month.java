@@ -16,6 +16,7 @@ public class Q10days_month {
 			System.out.println("No. of Months :"+months);
 			System.out.println(input);
 			System.out.println("No. of days :"+input);
+<<<<<<< HEAD
 		}else 
 			System.out.println("No. of days :"+input);
 
@@ -23,6 +24,11 @@ public class Q10days_month {
 		
 			
 			
+=======
+		}else
+			System.out.println("No. of days :"+input);
+
+>>>>>>> ed6a5d6d63d4ccf102085f2b2087dd513bd5756d
 		
 	}
 
