@@ -15,7 +15,9 @@ public class Q10days_month {
 			System.out.println("No. of Months :"+months);
 			System.out.println(input);
 			System.out.println("No. of days :"+input);
-		}
+		}else
+			System.out.println("No. of days :"+input);
+
 		
 	}
 
