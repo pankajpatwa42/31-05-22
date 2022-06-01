@@ -12,7 +12,7 @@ public class Q3reverse {
 		while(number!=0)
 		{
 			int rem = number%10;
-			reverse = reverse * 10 + rem;  
+			reverse = (reverse * 10) + rem;  
 			number /=10;
 			
 		}
